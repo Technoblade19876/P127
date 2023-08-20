@@ -1,0 +1,23 @@
+body{
+   background-color: salmon; 
+    font-size: 25px;
+}
+
+#score{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 30px;
+}
+
+#timer{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-right: 30px;
+    float: right;
+}
+
+#sketch_to_draw{
+    color: cyan;
+    font-size: 30px;
+    font-weight: bolder;
+}
